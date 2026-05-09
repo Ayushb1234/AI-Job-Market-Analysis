@@ -1,0 +1,61 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.secret
+
+# Data files should not be committed to production unless they are small,
+# public, and intentionally versioned.
+data/raw/
+data/processed/
+data/external/
+data/final/
+*.csv
+*.xlsx
+*.xls
+*.jsonl
+*.parquet
+*.feather
+*.pkl
+*.pickle
+
+# Generated analysis outputs
+reports/
+dashboards/exports/
+*.html
+*.pdf
+
+# Logs and runtime artifacts
+logs/
+*.log
+tmp/
+temp/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
