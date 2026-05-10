@@ -219,6 +219,7 @@ Analyzed total layoffs year-wise.
 
 ### Visualization
 - Bar chart of yearly layoffs
+![Yearly layoffs graphs](image-8.png)
 
 ### Insight
 - Layoffs increased rapidly after 2022.
@@ -238,6 +239,7 @@ Analyzed total layoffs year-wise.
 
 ### Visualization
 - Top 10 companies bar chart
+![Company-wise layoffs charts](image-9.png)
 
 ---
 
@@ -252,7 +254,8 @@ Analyzed total layoffs year-wise.
 
 ### Visualization
 - Country-wise bar chart
-![country wise chart](image.png)
+![country wise chart](image-6.png)
+
 
 ---
 
@@ -267,7 +270,11 @@ Analyzed total layoffs year-wise.
 
 ### Visualization
 - Pie chart of top industries
-![Pie chart of top industries](image-1.png)
+ company layoffs in india most top 10
+  
+  
+![Pie chart of top industries](image-7.png)
+
 
 ---
 
@@ -282,21 +289,30 @@ The project separately analyzes layoffs trends in India.
 
 ### Visualizations
 - bar charts
-![bar charts](image-2.png)
+ ![ company layoffs in india most top 10](image-13.png)
+ ![ Yearly layoffs graphs INDIA](image-12.png)
 - pie charts
-![pie charts](image-3.png)
+ ![pie charts](image-14.png)
+
 
 ---
 
 # 📈 Visualizations Included
 
+
+
 The project generates:
 - Yearly layoffs graphs
-![Yearly layoffs graphs india](image-4.png)
+![Yearly layoffs graphs](image-8.png)
 - Company-wise layoffs charts
-![Company-wise layoffs charts](image-5.png)
-
-
+![Company-wise layoffs charts](image-9.png)
+- Country-wise comparison charts
+![Country-wise comparison charts](image-10.png)
+- Industry distribution pie charts
+![Industry distribution pie chartS](image-11.png)
+- India-specific analysis chart
+![ Yearly layoffs graphs INDIA](image-12.png)
+![ company layoffs in india most top 10](image-13.png)
 ---
 
 # 📌 Key Insights
