@@ -169,3 +169,192 @@ AI investment
 automation adoption
 
 ```
+
+# Data Collection Job Trends Analysis
+-------------------------------------
+
+# AI Job Market Analysis – Tech Layoffs Insights
+------------------------------------------------
+
+## 📌 Overview
+---------------
+
+This project analyzes a global tech layoffs dataset to identify trends and patterns in layoffs across companies, industries, countries, and years.
+
+Using Python, Pandas, and Matplotlib, the project performs:
+- Data cleaning
+- Missing value handling
+- Exploratory Data Analysis (EDA)
+- Data visualization
+
+The analysis helps understand how layoffs have impacted the tech industry globally and specifically in India.
+
+---
+
+# 📂 Dataset Information
+-------------------------
+
+### Dataset Used
+`Cleaned_tech_layoffs.csv`
+
+### Dataset Size
+- Rows: 1745
+- Columns: 18
+
+# ⚙️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+# 📊 Exploratory Data Analysis (EDA)
+
+## 1️⃣ Yearly Layoffs Trend
+
+Analyzed total layoffs year-wise.
+
+### Visualization
+- Bar chart of yearly layoffs
+
+### Insight
+- Layoffs increased rapidly after 2022.
+
+---
+
+## 2️⃣ Top Companies With Highest Layoffs
+
+### Top Companies
+| Company | Layoffs |
+|---|---|
+| Intel | 37022 |
+| Amazon | 27150 |
+| Microsoft | 25305 |
+| Meta | 24600 |
+| Tesla | 14000 |
+
+### Visualization
+- Top 10 companies bar chart
+
+---
+
+## 3️⃣ Country-wise Layoffs Analysis
+
+### Most Affected Countries
+- USA
+- India
+- Canada
+- Israel
+- Germany
+
+### Visualization
+- Country-wise bar chart
+![country wise chart](image.png)
+
+---
+
+## 4️⃣ Industry-wise Layoffs
+
+### Most Affected Industries
+- Consumer
+- Retail
+- Transportation
+- Travel
+- Finance
+
+### Visualization
+- Pie chart of top industries
+![Pie chart of top industries](image-1.png)
+
+---
+
+# 🇮🇳 India-Specific Analysis
+
+The project separately analyzes layoffs trends in India.
+
+## Analysis Included
+- Industry-wise layoffs
+- Yearly layoffs trend
+- Top companies with layoffs
+
+### Visualizations
+- bar charts
+![bar charts](image-2.png)
+- pie charts
+![pie charts](image-3.png)
+
+---
+
+# 📈 Visualizations Included
+
+The project generates:
+- Yearly layoffs graphs
+![Yearly layoffs graphs india](image-4.png)
+- Company-wise layoffs charts
+![Company-wise layoffs charts](image-5.png)
+
+
+---
+
+# 📌 Key Insights
+
+- USA recorded the highest layoffs globally.
+- India ranked among the top affected countries.
+- Post-IPO companies experienced major layoffs.
+- Consumer and Retail industries were highly impacted.
+- Layoffs peaked during 2022–2024.
+
+---
+
+# 🚀 How to Run This Project
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/your-username/AI-Job-Market-Analysis.git
+```
+
+---
+
+## 2️⃣ Install Required Libraries
+
+```bash
+pip install pandas numpy matplotlib
+```
+
+---
+
+## 3️⃣ Run Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+---
+
+# 📁 Project Structure
+
+```bash
+AI-Job-Market-Analysis/
+│
+├── data/
+│   └── raw/
+│       └── layoffs dataset/
+│           └── Cleaned_tech_layoffs.csv
+│
+├── notebooks/
+│   └── layoffs_analysis.ipynb
+│
+├── images/
+│
+├── README.md
+│
+└── requirements.txt
+```
+
+---
+
+
