@@ -26,12 +26,22 @@ ENV/
 *.key
 *.secret
 
-# Data files should not be committed to production unless they are small,
-# public, and intentionally versioned.
+# Data files should not be committed unless they are small, public,
+# and intentionally versioned. Keep raw/source datasets local.
 data/raw/
-data/processed/
 data/external/
 data/final/
+
+# Processed archives may be versioned intentionally; extracted tables stay local.
+data/processed/*.csv
+data/processed/*.xlsx
+data/processed/*.xls
+data/processed/*.jsonl
+data/processed/*.parquet
+data/processed/*.feather
+data/processed/*.pkl
+data/processed/*.pickle
+
 *.csv
 *.xlsx
 *.xls
